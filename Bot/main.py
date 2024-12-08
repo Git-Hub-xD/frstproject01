@@ -14,7 +14,7 @@ from database.db_manager import create_db, add_user, ensure_user_exists, get_use
 
 API_ID = "21989020"
 API_HASH = "3959305ae244126404702aa5068ba15c"
-BOT_TOKEN = "7410194228:AAGyVEIgppL2tusKBIG_f-PI0XMwuD4uY1Y"
+BOT_TOKEN = "8141351816:AAG1_YB0l88X0SLAHnos9iODdZuCdNEfuFo"
 
 app = Client(
   name="Kaisen Ranking Bot",
